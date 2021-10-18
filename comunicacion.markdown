@@ -29,7 +29,7 @@ permalink: /proyecto_comunicacion/
 <body>
 
 
-<h1><p style="text-align: center;">INVESTIGADORES PRINCIPALES (IPs) DEL PROYECTO</p></h1>
+<h1><p style="text-align: center;">INVESTIGADORES PRINCIPALES (IPs) DEL PROYECTO PRUEBA</p></h1>
  <div class="row">
   <div class="column">
     <img src="images/jmrobles.jpeg" height="200" width="200" style="border-radius:50%">
