@@ -95,4 +95,4 @@ Breve descripción.
 ***
 
 <br>
-<h1><p style="text-align: center; color: #9e0000;"><strong><a href="/discusgroup/twitter/" >NO TE PIERDAS LAS ÚLTIMAS NOVECDADES DE DISCUS</a></strong></p></h1>
+<h1><p style="text-align: center; color: #9e0000;"><strong><a href="/discusgroup/twitter/" >NO TE PIERDAS LAS ÚLTIMAS NOVEDADES DE DISCUS</a></strong></p></h1>
