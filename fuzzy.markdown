@@ -29,7 +29,6 @@ permalink: /proyecto_fuzzy/
 
 
 <h1><p style="text-align: center;">INVESTIGADORES PRINCIPALES (IPs) DEL PROYECTO</p></h1>
-
  <div class="row">
   <div class="column">
     <img src="images/dani.jpeg" height="200" width="200" style="border-radius:50%">
@@ -40,6 +39,8 @@ permalink: /proyecto_fuzzy/
      <p style="text-align: center;"><br> <a href="https://scholar.google.es/citations?user=UIFHK4QAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Javier Montero</a></p>
   </div>
 </div>
+
+
 </body>
 </html>
 
