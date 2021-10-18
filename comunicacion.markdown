@@ -30,7 +30,6 @@ permalink: /proyecto_comunicacion/
 
 
 <h1><p style="text-align: center;">INVESTIGADORES PRINCIPALES (IPs) DEL PROYECTO</p></h1>
-
  <div class="row">
   <div class="column">
     <img src="images/jmrobles.jpeg" height="200" width="200" style="border-radius:50%">
@@ -41,6 +40,8 @@ permalink: /proyecto_comunicacion/
      <p style="text-align: center;"><br> <a href="https://scholar.google.es/citations?user=DfbVg0wAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Rafael Caballero</a></p>
   </div>
 </div>
+
+
 </body>
 </html>
 
