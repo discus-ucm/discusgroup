@@ -11,11 +11,6 @@ permalink: /daniel-gomez/
   box-sizing: border-box;
 }
 
-.column {
-  float: left;
-  width: 50%;
-  padding: 70px;
-}
 
 /* Clearfix (clear floats) */
 .row::after {
@@ -28,7 +23,7 @@ permalink: /daniel-gomez/
 <body>
 
 <div style="text-align: center">
-<img src="images/dani.jpeg" height="auto" width="auto" style="border-radius:50%">
+<img src="images/dani.jpeg" height="200" width="200" style="border-radius:50%" class="center">
 <br>
 
 <a href="https://orcid.org/0000-0001-9548-5781" target="_blank" rel="noopener noreferrer" >ORCID</a><br>
