@@ -29,7 +29,7 @@ permalink: /josem-robles/
 
 
 <div style="text-align: center">
-<img src="images/jmrobles.jpeg" height="auto" width="auto" style="border-radius:50%">
+<img src="images/jmrobles.jpeg" height="200" width="200" style="border-radius:50%">
 <br>
 <a href="https://orcid.org/0000-0003-1092-3864" target="_blank" rel="noopener noreferrer" >ORCID</a><br>
 <a href="https://scholar.google.es/citations?user=l6IMGLAAAAAJ&hl=es" target="_blank" rel="noopener noreferrer" >Google Scholar</a><br>
