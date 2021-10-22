@@ -52,7 +52,7 @@ OBJETIVOS DE INVESTIGACIÓN DEL GRUPO EN SU CONJUNTO - LA SINERGIA ENTRE LOS DOS
 <body>
 
 
-<h1><p style="text-align: center; color: #9e0000;"><br><strong>CONOCE A LOS DIRECTORES DEL GRUPO DE INVESTIGACIÓN</strong></p></h1>
+<h1><p style="text-align: center; color: #9e0000;"><br><strong>CONOCE A LOS DIRECTORES DEL GRUPO DE INVESTIGACIÓN - HOLA</strong></p></h1>
  <div class="row">
   <div class="column">
     <img src="images/dani.jpeg" height="200" width="200" style="border-radius:50%">
