@@ -30,5 +30,3 @@ permalink: /proyecto_stefano/
 ***
 <br>
 Resumen de los objetivos y competencias del proyecto
-
-<a class="twitter-timeline" href="https://twitter.com/discus_group?ref_src=twsrc%5Etfw">Tweets by discus_group</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
