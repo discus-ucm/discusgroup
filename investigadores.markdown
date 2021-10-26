@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Integrantes de DISCUS
+title: DISCUS Members
 permalink: /integrantes-discus/
 ---
 
