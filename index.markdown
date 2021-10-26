@@ -12,7 +12,7 @@ layout: home
 
 [//]: # (<img src="images/comunidades.png" />)
 
-<h1><p style="text-align: center; color: #9e0000"><strong>WELCOME A LA WEB DEL GRUPO DE INVESTIGACIÓN DISCUS</strong></p></h1>
+<h1><p style="text-align: center; color: #9e0000"><strong>WELCOME TO DISCUS WEBPAGE</strong></p></h1>
 
 ***
 
