@@ -21,7 +21,7 @@
 title: DISCUS - “Data Science and Soft Computing for Social Analytics and Decision Aid”
 email: discus.ucm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Grupo de Investigación Multidisciplinar de la Universidad Complutense de Madrid.
+Multidisciplinary Research Group - Complutense University of Madrid
 baseurl: "/discusgroup" # the subpath of your site, e.g. /blog
 url: "http://discusgroup.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: discus_group 
